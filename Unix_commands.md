@@ -20,11 +20,11 @@ commands (BASH shell — most basic shell)
 * [ ] cd .. (moves you back a folder)
 * [ ] ls -F (shows folder files via / symbol)
 * [ ] ls -a (shows hidden files)
-
-* man ls (opens ls manual; can also google online if it is unclear)
-* ls
-* cd Desktop/shell-lesson-data (go to the shell lesson data directory)
-* if you are ALREADY in the Desktop, then type cd shell-lesson-data
+# checked checklist * [x]
+* [x] man ls (opens ls manual; can also google online if it is unclear)
+* [x] ls
+* [x] cd Desktop/shell-lesson-data (go to the shell lesson data directory)
+* [x] if you are ALREADY in the Desktop, then type cd shell-lesson-data
 * ls (check whats in there)
 * ls -a
 * ls -F
