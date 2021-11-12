@@ -11,3 +11,9 @@
 * [GitHub Materials](https://malvikasharan.github.io/developing_collaborative_document/)
 * [Git materials](https://swcarpentry.github.io/git-novice/)
 * [video tutorial](https://www.youtube.com/watch?v=fTRtzsYo7Ho)
+
+
+## Project Members
+
+* Niels
+* Javier
